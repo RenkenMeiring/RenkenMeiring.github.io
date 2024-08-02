@@ -78,9 +78,53 @@ Additional duties outside the scope of my position:
 
 <h1>3. Projects</h1>
   <ul>
-    <li><a href="https://github.com/RenkenMeiring/RenkenMeiring.github.io">Portfolio Website: </a>Dynamic portfolio website that serves as a virtual CV, showcasing who I am, past work experiences and coding capabilities</li>
-    <li><a href="https://github.com/JPJvv/ApexSystem323"> </a></li>
+    <li><a href="https://github.com/RenkenMeiring/RenkenMeiring.github.io">Portfolio Website:</a> Dynamic portfolio website that serves as a virtual CV, showcasing who I am, past work experiences and coding capabilities</li>
+    <li><a href="https://github.com/JPJvv/ApexSystem323">HMS T&L System:</a> The HMS T&L System is a multi-platform application designed to enhance the feedback process for students in the Human Movement Sciences Faculty at North-West University. The system allows students to upload video assignments via a mobile app, which lecturers can then review and provide feedback on through a web interface.</li>
   </ul>
+
+<h1>4. Skills</h1>
+ <ul>
+   <li>Case Management</li>
+   <li>Communication</li>
+   <li>Risk Management</li>
+   <li>Medical Coding</li>
+   <li>Medical Billing</li>
+   <li>Clinical Monitoring</li>
+   <li>Credit Control</li>
+   <li>Quotations</li>
+   <li>Filing</li>
+   <li>Electronic Data Capture (EDC)</li>
+   <li>Office Administration</li>
+   <li>Authorization</li>
+   <li>Time Management</li>
+   <li>Clinical Data Management</li>
+   <li>Customer Service</li>
+   <li>Telephone Reception</li>
+   <li>Bookings</li>
+   <li>Admissions</li>
+   <li>Internal Audits</li>
+   <li>Switchboard</li>
+   <li>Communication</li>
+   <li>Active Listening</li>
+   <li>Complaint Management</li>
+   <li>Medical Assisting</li>
+   <li>Appointment Scheduling</li>
+   <li>One-on-one Instruction</li>
+   <li>Homework Help</li>
+   <li>Online Tutoring</li>
+   <li>Academic Coaching</li>
+   <li>Higher Education</li>
+   <li>Typing & Editing</li>
+   <li>Mathematics</li>
+   <li>Graphic Design</li>
+   <li>High Level Of Accuracy</li>
+   <li>Delegation</li>
+   <li>Crew Supervision</li>
+ </ul>
+
+<h1>5. Contact Information</h1>
+<p>Email: renkenmeiring2003@gmail.com</p>
+<p>Linkedin: <a href="https://www.linkedin.com/in/renken-meiring-b28383320/">Renken Meiring</a></p>
 
 </body>
 </html>
