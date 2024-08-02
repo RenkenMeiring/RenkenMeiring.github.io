@@ -23,7 +23,7 @@ Prior to entering higher education and the workplace environment I graduated gra
 
 
 <h1>2. Resume/CV </h1>
-<h2><strong></strong>2020 - 2021</strong></h2>
+<h2><strong></strong>2020 - 2021</h2>
 <h3><em>Part-Time Supervisor @Sonskyn Skoonmaak Diens</em></h3>
 <p>I was the supervisor from time to time of a team of cleaners for the company during school holidays. I was responsible for delegating tasks, making sure everything runs smoothly and assisting where needed.</p>
 
@@ -60,7 +60,7 @@ Prior to entering higher education and the workplace environment I graduated gra
 
 
 
-<h2><strong>2024(January) - 2024(Current)</h2>
+<h2><strong>2024(January) - 2024(Current)
 <h3><em>Practice Case Manager @Dr AJ Oberholzer’s General Practice </em></h3>
 <p>As the case manager of the practice my purpose here would be to plan, seek, advocate for and monitor patients’ treatment plans. I act as the bridge between doctor, patient, medical aid and all other external parties in order to get optimal treatment from doctor with more than most times limited funding from the medical aids. My duties thus include communicating with patients throughout the process, whilst requesting authorization for procedures in-rooms or in hospital. I must also aid in motivating patients’ cases to the funds with not only the correct coding and administrative knowledge, but also the practical and technical know-how of the procedures. I also do follow-ups with the patients to see whether they are satisfied with the care from the various parties and whether they are satisfied with my services. I also then aid in looking into rejected cases in order to minimize patients’ debt at the practice and set them at ease having a person looking out for their financial needs, whilst also caring for their physical health.
 
