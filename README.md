@@ -2,7 +2,9 @@
 <html>
 <body>
 <head>
-font-family: Comic Sans MS;
+  <style>
+    body {font-family: Comic Sans MS;}
+  </style>
 </head>
 
 
