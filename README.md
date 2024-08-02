@@ -14,5 +14,15 @@
   </tr>
 </table>
 
+</hr>
+
+<h1>1. About Me</h1>
+<p>I have a passion for mathematics and programming which is why I am currently studying a BSc in IT
+online at the NWU Potchefstroom Campus. I love to broaden my horizons by constantly searching
+for ways to advance my skills in any ways I can. I like to be artistic from time to time and pride
+myself in my collection of succulents. 
+
+Prior to entering higher education and the workplace environment I graduated grade 12 at Hoër Volkskool Potchefstroom with 8 distinctions and a 5-year academic colors of honor. All my relevant work experience, broadly in admin and healthcare, is as stipulated in my past positions. Additionally, I did courses in ICD 10 and 11 medical coding and billing, as well as 2 case management courses through Udemy.</p>
+
 </body>
 </html>
