@@ -3,7 +3,7 @@
 <body>
 <head>
   <style>
-    body {font-family: Comic Sans MS;}
+    body {font-family: 'Comic Sans MS';}
   </style>
 </head>
 
