@@ -29,7 +29,7 @@ Prior to entering higher education and the workplace environment I graduated gra
 
 
 
-<h2><strong></strong>2022</strong></h2>
+<h2><strong></strong>2022</h2>
 <h3><em>Part-Time Mathematics Tutor and Alpha Mathematics Teacher @Self-employed</em></h3>
 <p>I was a tutor for a variety of students tutoring Mathematics from Grade 4-12. In total I had about 20 students work through me, including grade 12's who rewrote papers. At most I had about 7 students at a time. I also gave Alpha Mathematics as an extra subject to a student for that year. Both were part-time due to studying full-time at that moment.</p>
 
@@ -38,14 +38,14 @@ Prior to entering higher education and the workplace environment I graduated gra
 
 
 
-<h2><strong>2023(January) - 2023(July)</strong></strong></h2>
+<h2><strong>2023(January) - 2023(July)</strong></h2>
 <h3><em>Receptionist @Dr TB Khumalo, Mediclinic Potchefstroom </em></h3>
 <p>I was the receptionist for Dr TB Khumalo at Mediclinic Potchefstroom. I assisted him with making appointments, filling, medical aid claims, handling patients and attending to queries.</p>
 
 <h3><em>Receptionist @Dr I Abdoola, Mediclinic Potchefstroom</em></h3>
 <p>I was also the part-time receptionist for Dr I Abdoola at Mediclinic Potchefstroom. I assist him with handling patients, assisting him in the consultation room if needed during an in chair procedure, general paperwork and attending to queries. </p>
 
-<h2><strong>2023(August) - 2023(November)</strong></strong></h2>
+<h2><strong>2023(August) - 2023(November)</strong></h2>
 <h3><em>Full-Time MHR Employee @Mediclinic Potchefstroom</em></h3>
 <p>An MHR employee is a flexible employee that gets paid by the hour for the position you are standing in for. This is usually the case unless you are permanently booked for a certain position as I was for Confirmation Clerk and thus was mainly working in this area.</p>
 
@@ -60,7 +60,7 @@ Prior to entering higher education and the workplace environment I graduated gra
 
 
 
-<h2><strong>2024(January) - 2024(Current)</strong></strong></h2>
+<h2><strong>2024(January) - 2024(Current)</h2>
 <h3><em>Practice Case Manager @Dr AJ Oberholzer’s General Practice </em></h3>
 <p>As the case manager of the practice my purpose here would be to plan, seek, advocate for and monitor patients’ treatment plans. I act as the bridge between doctor, patient, medical aid and all other external parties in order to get optimal treatment from doctor with more than most times limited funding from the medical aids. My duties thus include communicating with patients throughout the process, whilst requesting authorization for procedures in-rooms or in hospital. I must also aid in motivating patients’ cases to the funds with not only the correct coding and administrative knowledge, but also the practical and technical know-how of the procedures. I also do follow-ups with the patients to see whether they are satisfied with the care from the various parties and whether they are satisfied with my services. I also then aid in looking into rejected cases in order to minimize patients’ debt at the practice and set them at ease having a person looking out for their financial needs, whilst also caring for their physical health.
 
