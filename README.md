@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-</hr>
+
 
 <h1>1. About Me</h1>
 <p>I have a passion for mathematics and programming which is why I am currently studying a BSc in IT
@@ -20,14 +20,14 @@ myself in my collection of succulents.
 
 Prior to entering higher education and the workplace environment I graduated grade 12 at Hoër Volkskool Potchefstroom with 8 distinctions and a 5-year academic colors of honor. All my relevant work experience, broadly in admin and healthcare, is as stipulated in my past positions. Additionally, I did courses in ICD 10 and 11 medical coding and billing, as well as 2 case management courses through Udemy.</p>
 
-</hr>
+
 
 <h1>2. Resume/CV </h1>
 <h2><strong></strong>2020 - 2021</strong></h2>
 <h3><em>Part-Time Supervisor @Sonskyn Skoonmaak Diens</em></h3>
 <p>I was the supervisor from time to time of a team of cleaners for the company during school holidays. I was responsible for delegating tasks, making sure everything runs smoothly and assisting where needed.</p>
 
-</br>
+
 
 <h2><strong></strong>2022</strong></h2>
 <h3><em>Part-Time Mathematics Tutor and Alpha Mathematics Teacher @Self-employed</em></h3>
@@ -36,7 +36,7 @@ Prior to entering higher education and the workplace environment I graduated gra
 <h3><em>Co-Typer and Editor @Morné Smith</em></h3>
 <p>I was assisting Morné with his mathematics publication he was in the process of writing as the co-typer and editor according to his needs and specifications. The publication is a Grade 10 handbook named Wiskunde, by Morné Smith (published 2023).</p>
 
-</br>
+
 
 <h2><strong>2023(January) - 2023(July)</strong></strong></h2>
 <h3><em>Receptionist @Dr TB Khumalo, Mediclinic Potchefstroom </em></h3>
@@ -58,12 +58,12 @@ Prior to entering higher education and the workplace environment I graduated gra
 <h3><em>3. Confirmation Clerk (Case Manager)</em></h3>
 <p>During this training and months I stood in for this position I was specifically trained for since I was standing in for a lady on maternity leave. I worked directly with medical aids and authorizations which are the key driver for an account to be correctly paid, thus attention to detail and learning pro-active ways of handling a case was key. I acquired a lot of my medical aid knowledge and medical coding knowledge with working with this hands on. I learned of different scheme rules and coding principles applying to certain cases or clinical documentation. I handled data capturing in relation to clinical information of a patient motivating their length of stay and I final coded casualty files. From time to time I had to contact patient’s regarding scheme rules, exclusions or struggles in a case in order for them to be aware of the financial risk they are currently in. The key driver for case management was to keep the hospital’s financial risk as low as possible whilst also assisting the patient’s as far possible that their admission(s) can be paid by the fund.</p>
 
-</br>
+
 
 <h2><strong>2024(January) - 2024(Current)</strong></strong></h2>
 <h3><em>Practice Case Manager @Dr AJ Oberholzer’s General Practice </em></h3>
 <p>As the case manager of the practice my purpose here would be to plan, seek, advocate for and monitor patients’ treatment plans. I act as the bridge between doctor, patient, medical aid and all other external parties in order to get optimal treatment from doctor with more than most times limited funding from the medical aids. My duties thus include communicating with patients throughout the process, whilst requesting authorization for procedures in-rooms or in hospital. I must also aid in motivating patients’ cases to the funds with not only the correct coding and administrative knowledge, but also the practical and technical know-how of the procedures. I also do follow-ups with the patients to see whether they are satisfied with the care from the various parties and whether they are satisfied with my services. I also then aid in looking into rejected cases in order to minimize patients’ debt at the practice and set them at ease having a person looking out for their financial needs, whilst also caring for their physical health.
-</br>
+
 Additional duties outside the scope of my position:
  <ul>
    <li>Calculating quotations for patient’s procedures.</li>
@@ -124,7 +124,7 @@ Additional duties outside the scope of my position:
 
 <h1>5. Contact Information</h1>
 <p>Email: renkenmeiring2003@gmail.com</p>
-<p>Linkedin: <a href="https://www.linkedin.com/in/renken-meiring-b28383320/">Renken Meiring</a></p>
+<p>Linkedln: <a href="https://www.linkedin.com/in/renken-meiring-b28383320/">Renken Meiring</a></p>
 
 </body>
 </html>
